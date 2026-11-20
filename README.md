@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.jpg" width="100%" alt="Samir Pramanik - Developer Banner"/>
+  <img src="Samir Pramanik Developer Portfolio Banner.png" width="100%" alt="Samir Pramanik - Developer Banner"/>
 </div>
 
 <br/>
