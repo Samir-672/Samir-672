@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/profile-banner.jpg" width="100%" alt="Samir Pramanik - Developer Banner"/>
+</div>
+
+<br/>
+
 # Hi, I'm Samir Pramanik 👋
 
 ### React.js Developer | SQL Server Developer | Full Stack Development
