@@ -113,7 +113,7 @@ A full-stack personal task management application.
 
 🔗 [GitHub Repository](https://github.com/Samir-672/my-task-manager)
 
-🌐 [Live Demo](https://my-task-manager-samir-672.vercel.app/)
+🌐 [Live Demo](https://my-task-manager-beige-nine.vercel.app/)
 
 ### 2. SQL Server Development
 
